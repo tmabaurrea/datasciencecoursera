@@ -1,2 +1,2 @@
-# datasciencecoursera
-New repo for the Data Sientist´s Toolbox Course
+﻿# datasciencecoursera
+New repo for the Data Scientist´s Toolbox Course
